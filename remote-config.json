@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 1,
-  "publishedAt": "2026-11-03T11:55:43.654Z",
+  "version": 2,
+  "publishedAt": "2026-11-04T18:00:09.319Z",
   "groups": [],
   "conditions": [
     {
@@ -31,5 +31,14 @@
       ]
     }
   ],
-  "parameters": []
+  "parameters": [
+    {
+      "key": "forceUpdate",
+      "type": "string",
+      "default": "2.0.0",
+      "description": "",
+      "groupId": null,
+      "overrides": []
+    }
+  ]
 }
